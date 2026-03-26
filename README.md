@@ -34,8 +34,8 @@ Portfolio_Nextjs/
 
 ```bash
 # Clone the repo
-git clone https://github.com/AmoiiKane/Portfolio_Nextjs.git
-cd Portfolio_Nextjs
+git clone https://github.com/AmoiiKane/dev-portfolio.git
+cd dev-portfolio
 
 # Install dependencies
 npm install
